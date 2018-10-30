@@ -1,7 +1,7 @@
 {
   "settings": {
-    "name": "Site-10-28_2222",
-    "currentPage": "index.html",
+    "name": "WDBM_v4",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -28,14 +28,24 @@
     "versionFirst": "4.8.6",
     "siteFonts": [],
     "uniqCompNum": 25,
-    "versionPublish": "4.8.6"
+    "versionPublish": "4.8.6",
+    "siteUrl": "http://webdesignbymel.com",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-117909410-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-117909410-1');\r\n</script>\r\n",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "sitemapSwitcher": "on",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "",
+        "meta_descr": "Web Designs By MEL\nWebsites, E-commerce, mobile apps, digital forms, libe stream websites, and technical support.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -862,7 +872,8 @@
     "page1.html": {
       "settings": {
         "title": "Pricing",
-        "order": 1
+        "order": 1,
+        "meta_descr": "Web Designs By MEL Pricing\nBusiness Essential\nBusiness Gold\nBusiness Diamond\nWDBM Stream Sites"
       },
       "components": [
         {
