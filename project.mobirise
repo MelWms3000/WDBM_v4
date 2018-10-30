@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-28_2222",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -272,7 +272,7 @@
           },
           "title": "Live Stream Sites",
           "text": "Live Stream to your personal website.<br>You control your viewers, content, and membership fees.<br><br><b>Turn viewers into dollars!</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">View demo</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://melwms3000.github.io/NaturalFantasies/index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">View demo</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -480,11 +480,11 @@
           },
           "title": "View Our Statistic",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores aliquam fuga aspernatur quaerat nobis deserunt.",
-          "subtitle1": "Views",
+          "subtitle1": "digital forms",
           "subtitle2": "Amazing sites",
           "subtitle3": "projects",
           "subtitle4": "Client Satisfaction",
-          "number1": "6909",
+          "number1": "345",
           "number2": "207",
           "number3": "21",
           "number4": "100%",
