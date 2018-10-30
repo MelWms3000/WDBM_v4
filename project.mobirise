@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-28_2222",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -554,7 +554,7 @@
               "name": "heart",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -1066,10 +1066,10 @@
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business Essential Package</b></li><li class=\"list-group-item\">plus</li><li class=\"list-group-item\"><b>Brand Development</b></li><li class=\"list-group-item\"><b>up to 3 additional pages</b></li><li class=\"list-group-item\"><b>up to 20 store items</b></li><li class=\"list-group-item\"><b style=\"background-color: initial; font-size: 0.875rem;\">Logo Design</b></li><li class=\"list-group-item\"><b style=\"background-color: initial; font-size: 0.875rem;\">Business Cards\n</b></li><li class=\"list-group-item\"><br></li></ul>",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b>Business Premium Package</b></li><li class=\"list-group-item\">plus</li><li class=\"list-group-item\"><b>Point of Sales System</b></li><li class=\"list-group-item\"><b>Inventory Management</b></li><li class=\"list-group-item\"><b style=\"background-color: initial; font-size: 0.875rem;\">Employee Accounts</b><br></li><li class=\"list-group-item\"><b>Shopping Add-ons</b></li><li class=\"list-group-item\"><b>Store Analytics</b></li><li class=\"list-group-item\"><b>Shipping Set-up</b></li></ul>",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><b style=\"background-color: initial; font-size: 0.875rem;\">up to 10 web pages</b></li><li class=\"list-group-item\"><b style=\"background-color: initial; font-size: 0.875rem;\">Interactive Live Streaming Set-up</b><br></li><li class=\"list-group-item\"><b>Live Stream Camera Bundle</b></li><li class=\"list-group-item\"><b>Live Chat</b></li><li class=\"list-group-item\"><b>Custom Membership Form</b></li><li class=\"list-group-item\"><b>You control the content!</b></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Sign Me up!</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">I'm ready!</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Let's Do this!</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">Stream me!</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://webdesignsbymel.setmore.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sign Me up!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://webdesignsbymel.setmore.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">I'm ready!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://webdesignsbymel.setmore.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Let's Do this!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://webdesignsbymel.setmore.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Stream me!</a>",
           "_tags": [
             "Theme"
           ],
