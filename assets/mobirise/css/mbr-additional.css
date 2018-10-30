@@ -800,6 +800,12 @@ blockquote {
   text-transform: uppercase;
   margin-top: 40px;
 }
+#animated-bg1-5 P {
+  font-size: 24px;
+}
+#animated-bg1-5 H1 {
+  font-size: 80px;
+}
 #header9-2 .elements-content {
   padding-bottom: 50px;
 }
@@ -829,6 +835,14 @@ blockquote {
 }
 #features16-4 .mbr-section-text {
   color: #000000;
+  font-size: 20px;
+}
+#call5-b .mbr-section-title {
+  color: #ffffff;
+}
+#call5-b .mbr-section-text {
+  color: #ffffff;
+  font-size: 20px;
 }
 #form2-8 .mbr-section-subtitle {
   text-transform: uppercase;
@@ -916,6 +930,12 @@ blockquote {
 }
 #pricing-table1-h .mbr-section__container .mbr-section-subtitle {
   color: #a0a0a0;
+}
+#pricing-table1-h .mbr-price-figure {
+  font-size: 72px;
+}
+#pricing-table1-h UL {
+  font-size: 16px;
 }
 #custom-html-k {
   /* Type valid CSS here */
