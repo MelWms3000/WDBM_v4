@@ -146,7 +146,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>DIY websites are cheap, frustrating, and time-consuming. We are here to help.</p>",
+          "text": "<p>We provide a unique experience for every client based on their business needs.</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -607,7 +607,7 @@
           "title": "Why our clients love us...",
           "title1": "Bootstrap 4",
           "subtitle1": "we are Innovative",
-          "caption1": "We provide innovative solutions that produces positive results.<br>We know how to engage your customers.<br><br>We provide a unique experience for every client based on their business needs.<br><br>No templates!<br><br>",
+          "caption1": "We provide innovative solutions that produces positive results.<br>We know how to engage your customers.<br><br>No templates!<br><br>",
           "title2": "Responsive",
           "subtitle2": "we love our clients",
           "caption2": "We support our clients from start to finish.<br>We provide media, marketing, and financial training to our clients.<br><br>We never leave you alone.",
@@ -798,7 +798,7 @@
           "form": {
             "action": "webdesignsbymel@outlook.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Someone will respond within 24 hours.\nThank you!"
             },
             "fields": {
               "name": {
