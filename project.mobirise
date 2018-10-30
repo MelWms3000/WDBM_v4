@@ -27,7 +27,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.6",
     "siteFonts": [],
-    "uniqCompNum": 24,
+    "uniqCompNum": 25,
     "versionPublish": "4.8.6"
   },
   "pages": {
@@ -232,6 +232,25 @@
           ],
           "_name": "header4",
           "_anchor": "header4-1"
+        },
+        {
+          "_afterNavbarItem": false,
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "sound": "https://soundcloud.com/joemorganhunt/sound-effect-drum-roll",
+            "autoplay": false,
+            "fullWidth": true,
+            "bgColor": "#fff"
+          },
+          "iframeSRC": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F7160876&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true",
+          "soundURL": "url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F7160876",
+          "alias": "soundcloud",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "soundcloud1",
+          "_anchor": "soundcloud1-o"
         },
         {
           "_styles": {
@@ -539,10 +558,10 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features16",
               "linkInNewWindow": false,
-              "name": "magic",
+              "name": "lightbulb-o",
               "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -563,10 +582,10 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features16",
               "linkInNewWindow": false,
-              "name": "maps-store-mall-directory",
-              "family": "Material-Design-Icons",
+              "name": "gears",
+              "family": "FontAwesome",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
               "color": "#fc7a60"
             }
@@ -664,7 +683,7 @@
           "title": "What are you waiting on?",
           "text": "Contact us today to build your customized website or digital application TODAY.",
           "text1": "<a href=\"index.html#form2-8\" class=\"text-warning\">Contact Us</a>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">start here</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">start here</a>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
