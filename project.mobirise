@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-10-28_2222",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "colorm",
       "title": "ColorM",
@@ -573,13 +573,14 @@
           },
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features16",
+              "linkInNewWindow": false,
               "name": "rocket",
-              "link": "https://mobirise.com",
+              "family": "cm-icon",
+              "active": true,
+              "link": "",
               "size": 0,
-              "color": "#fc7a60",
-              "family": "cm-icon"
+              "color": "#fc7a60"
             }
           },
           "media5": {
